@@ -39,8 +39,8 @@ To explore our project and gain access to the insights and resources we've gener
 
 Want to learn more about our project or discuss how it can benefit your business? Feel free to reach out to us:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yash-morvekar-498458273/)]
-- Email: [Your Email Address](mailto:morvekaryash606@gmail.com)
+- LinkedIn: [(https://www.linkedin.com/in/yash-morvekar-498458273/)]
+- Email: [(mailto:morvekaryash606@gmail.com)
 
 
 
